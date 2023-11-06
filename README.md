@@ -7,16 +7,16 @@ Use this on a printer using 2020 extrusions if you use the [Orbiter extruder](ht
 
 ## Print settings
 
-My print settings using :
+My settings:
 
 * 0.4 nozzle (100% line width, so 0.4)
 * 0.2 layer height
-* 5 top/bottom layers
-* 4 walls
+* 4 top/bottom layers
+* 3 walls
 * 20% gyroid infill
-* material: any normal structural material will do
+* filament: any normal structural material will do
 
-Adjust your settings if needed based on your print setup.
+Adjust your settings if needed based on your preferred print setup.
 
 ## BOM
 
