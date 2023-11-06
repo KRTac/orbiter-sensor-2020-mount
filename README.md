@@ -24,3 +24,7 @@ Adjust your settings if needed based on your preferred print setup.
 * 1 x M3 8mm
 * 1 x M3 'hammerhead' or T-nut
 * 4mm OD bowden tube
+
+## Assembly
+
+Sensor housing bolts thread into the mount, so don't bolt/unbolt them too many times. Best to test your sensor before you mount it.
