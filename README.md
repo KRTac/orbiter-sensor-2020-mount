@@ -1,4 +1,4 @@
-# Orbiter filament sensor 2020 mount
+# Orbiter Filament Sensor 2020 Mount
 
 Use this on a printer using 2020 extrusions if you use the [Orbiter extruder](https://www.orbiterprojects.com/orbiter-v2-0/) and, like me, don't/can't have the filament sensor mounted on the extruder.
 
