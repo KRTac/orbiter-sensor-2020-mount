@@ -27,4 +27,4 @@ Adjust your settings if needed based on your preferred print setup.
 
 ## Assembly
 
-Sensor housing bolts thread into the mount, so don't bolt/unbolt them too many times. Best to test your sensor before you mount it.
+Sensor housing bolts thread into the mount, so don't bolt/unbolt them too many times. Best to test your sensor before you mount it. The bowden tube should fit snugly in the hole and the bolts should thread in without too much force.
