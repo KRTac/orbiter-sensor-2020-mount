@@ -14,6 +14,7 @@ My settings:
 * 4 top/bottom layers
 * 3 walls
 * 20% gyroid infill
+* no supports
 * filament: any normal structural material will do
 
 Adjust your settings if needed based on your preferred print setup.
